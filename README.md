@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi!😉 I'm a junior front-end developer.</h1>
-<h1></h1>
-<h3 align="center">I will continue to grow!</h3>
+
 
 - 🌱 I’m currently learning **front-end development.**
 
