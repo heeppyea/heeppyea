@@ -6,7 +6,7 @@
 
 - 🔍 All of my projects are available at [https://www.notion.so/hidongmin37/e3927a3e01904392befaa99e866fe202](https://www.notion.so/hidongmin37/e3927a3e01904392befaa99e866fe202)
 
-- 💬 Ask me about **html, css and JavaScript**
+- 💬 Ask me about **html, css, JavaScript and React**
 
 - 📪 How to reach me **phs8743@naver.com**
 
