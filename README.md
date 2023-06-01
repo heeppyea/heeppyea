@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **front-end development.**
 
-- 🔍 All of my projects are available at [[https://www.notion.so/hidongmin37/e3927a3e01904392befaa99e866fe202](https://www.notion.so/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb)]
+- 🔍 All of my projects are available at https://www.notion.so/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb
 
 - 💬 Ask me about **html, css, JavaScript and React**
 
