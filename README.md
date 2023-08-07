@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **html, css, JavaScript and React and TypeScript**
 
-- 📪 How to reach me **phs8743@naver.com**
+- 📪 How to reach me **phs8743@naver.com & phs8743@nate.com**
 
 
 
