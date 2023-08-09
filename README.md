@@ -2,8 +2,7 @@
 <h1 align="center">Hi!😉 I'm a junior front-end developer.</h1>
 
 
-- 🌱 I’m currently learning **front-end development.**
-
+- 🌱 I’m currently learning 
 - 🔍 All of my projects are available at https://www.notion.so/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb
 
 - 💬 Ask me about **html, css, JavaScript and React and TypeScript**
