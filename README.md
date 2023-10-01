@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!😉 I'm a junior front-end developer.</h1>
+<h1 align="center">Hi!😉 I'm a junior front-end developer!</h1>
 
 
 - 🌱 I’m currently learning front-end
