@@ -3,8 +3,7 @@
 
 
 - 🌱 I’m currently learning front-end
-- 🔍 All of my projects are available at [https://www.notion.so/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb
-](https://www.notion.so/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb)
+- 🔍 All of my projects are available at https://pebble-foundation-824.notion.site/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb?pvs=4
 
 <h3 align="left">Programing Languages:</h3>
 <!-- <p align="left">
