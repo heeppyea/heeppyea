@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi!😉 I'm a junior front-end developer!</h1>
+<h1 align="center">Hi!🥰 I'm a junior front-end developer!</h1>
 
 
 - 🌱 I’m currently learning front-end
 - 🔍 All of my projects are available at https://pebble-foundation-824.notion.site/Front-end-study-717d0d505ab646339dc6b66d26ed5bbb?pvs=4
 
-<h3 align="left">Programing Languages:</h3>
+<h3 align="left">Programing Language:</h3>
 <!-- <p align="left">
 </p> -->
 </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
