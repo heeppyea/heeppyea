@@ -3,7 +3,7 @@
 <h3>프론트엔드 개발자 박희수 입니다.</h3>
 <hr/>
 
-My Skill & Stack
+<h3>My Skill & Stack</h3>
 - **Monorepo**
 - **Next.js**
 - **TypeScript**
