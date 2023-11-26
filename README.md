@@ -16,3 +16,4 @@
 - **NextAuth**
 - **Storybook**
 - **jotai**
+- **Redux**
