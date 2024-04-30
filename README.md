@@ -17,7 +17,7 @@
   
    <p align ="center"> 
    <img src="https://img.shields.io/badge/Trello-00274E?style=flat-square&logo=trello%20IDEA&logoColor=skyBlue"/>  
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=Linear&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   </p>
   
