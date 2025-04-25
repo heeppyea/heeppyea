@@ -21,10 +21,4 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   </p>
   
-<h4 align='center'>Take a look at my most recent updated velog!💛 </h4>
-<p align="center">
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=heeppyea">
-    <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=heeppyea">
-  </a>
-</p>
 </div>
